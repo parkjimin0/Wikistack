@@ -20,6 +20,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "html-template-tag": "^2.0.0",
     "morgan": "^1.9.0"
   },
   "devDependencies": {
